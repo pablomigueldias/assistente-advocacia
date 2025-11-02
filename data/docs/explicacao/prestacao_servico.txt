@@ -1,0 +1,11 @@
+Contrato de Prestação de Serviços — visão geral
+Um contrato de prestação de serviços regula a atividade a ser realizada por um prestador (pessoa física ou jurídica) para um tomador. Elementos essenciais: objeto claro (o que será feito), prazo, preço e forma de pagamento, responsabilidades, hipóteses de rescisão e penalidades.
+
+Boas práticas:
+- Definir escopo detalhado e critérios de aceite do serviço.
+- Estabelecer prazos intermediários (marcos) e prazo final.
+- Prever reajuste e reembolso de despesas, quando houver.
+- Tratar propriedade intelectual do que for produzido.
+- Incluir confidencialidade, proteção de dados e não aliciamento.
+
+Risco comum: “escopo aberto” gera disputa sobre o que está “incluído” no preço. O ideal é anexar uma proposta técnica com o escopo.

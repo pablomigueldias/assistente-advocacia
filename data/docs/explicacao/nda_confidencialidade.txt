@@ -1,0 +1,4 @@
+Acordo de Confidencialidade (NDA) — quando usar
+O NDA protege informações sigilosas trocadas entre as partes (negócios, tecnologia, dados pessoais). Deve prever: escopo do sigilo, exceções (info pública, obtida licitamente, ordem judicial), prazo de vigência do sigilo e penalidades.
+
+Dica: alinhe o NDA ao tratamento de dados pessoais (LGPD) quando houver dados pessoais ou sensíveis.

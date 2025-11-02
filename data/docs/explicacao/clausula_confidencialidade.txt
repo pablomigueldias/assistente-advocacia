@@ -1,0 +1,2 @@
+Cláusula de confidencialidade (modelo de referência)
+As Partes obrigam-se a manter sigilo sobre informações técnicas, comerciais e quaisquer dados a que tenham acesso em razão deste Contrato, comprometendo-se a utilizá-los exclusivamente para a execução do objeto contratado, pelo prazo de 5 (cinco) anos após seu término, ressalvadas informações que (i) sejam de domínio público; (ii) já eram conhecidas pela Parte receptora; (iii) foram obtidas de forma legítima de terceiro; ou (iv) cuja divulgação seja exigida por lei ou ordem judicial.

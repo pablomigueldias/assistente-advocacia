@@ -1,0 +1,10 @@
+[project]
+name = "assistente advocacia"
+version = "0.1.0"
+description = "Demo profissional: Llama3 + RAG + Agente + API"
+requires-python = ">=3.11"
+dependencies = []
+
+
+[tool.pyright]
+reportMissingImports = false
