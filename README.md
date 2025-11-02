@@ -9,20 +9,6 @@ Um sistema completo de **IA Jurídica** desenvolvido em **Python + FastAPI + Rea
 
 ---
 
-## Sumário
-- [Visão Geral](#-visão-geral)
-- [Funcionalidades](#-funcionalidades)
-- [Arquitetura do Projeto](#-arquitetura-do-projeto)
-- [Tecnologias Usadas](#-tecnologias-usadas)
-- [Como Rodar Localmente](#-como-rodar-localmente)
-- [Como Treinar e Atualizar o Conhecimento](#-como-treinar-e-atualizar-o-conhecimento)
-- [Como Testar pelo Chat](#-como-testar-pelo-chat)
-- [Pontos de Destaque Técnicos](#-pontos-de-destaque-técnicos)
-- [Possíveis Expansões Futuras](#-possíveis-expansões-futuras)
-- [Autor](#-autor)
-
----
-
 ## Visão Geral
 
 O projeto é um **laboratório jurídico de IA**, combinando:
@@ -95,6 +81,7 @@ cd ../../front
 npm install
 npm run dev
 ```
+
 
 
 
