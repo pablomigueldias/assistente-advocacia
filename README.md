@@ -1,15 +1,15 @@
-# 🧠 Assistente Jurídico com RAG e Agente Inteligente
+# Assistente Jurídico com RAG e Agente Inteligente
 
 Um sistema completo de **IA Jurídica** desenvolvido em **Python + FastAPI + React**, integrando:
 - **RAG (Retrieval-Augmented Generation)** para busca contextual em documentos reais;
 - **Agente Jurídico** pronto para treinar e ser executado.
 - **Interface de chat moderna** para testar o comportamento da IA em tempo real.
 
-> 💡 O objetivo é simular o funcionamento de um **assistente jurídico corporativo (BPO jurídico)** — capaz de ler, entender e agir sobre contratos, cláusulas e solicitações reais.
+> O objetivo é simular o funcionamento de um **assistente jurídico corporativo (BPO jurídico)** — capaz de ler, entender e agir sobre contratos, cláusulas e solicitações reais.
 
 ---
 
-## 📚 Sumário
+## Sumário
 - [Visão Geral](#-visão-geral)
 - [Funcionalidades](#-funcionalidades)
 - [Arquitetura do Projeto](#-arquitetura-do-projeto)
@@ -23,7 +23,7 @@ Um sistema completo de **IA Jurídica** desenvolvido em **Python + FastAPI + Rea
 
 ---
 
-## 🧩 Visão Geral
+## Visão Geral
 
 O projeto é um **laboratório jurídico de IA**, combinando:
 - **LLM (modelo de linguagem)** para interpretar textos;
@@ -37,7 +37,7 @@ A interface permite testar:
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 | Módulo | Descrição |
 |--------|------------|
@@ -95,5 +95,6 @@ cd ../../front
 npm install
 npm run dev
 ```
+
 
 
